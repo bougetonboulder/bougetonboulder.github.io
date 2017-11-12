@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A on Bouge Ton Boulder</title>
-    <link>https://example.org/categories/a/</link>
+    <link>https://bougetonboulder.github.io/categories/a/</link>
     <description>Recent content in A on Bouge Ton Boulder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 bougetonboulder</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/a/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bougetonboulder.github.io/categories/a/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Another Awesome Post</title>
-      <link>https://example.org/post/work3/</link>
+      <link>https://bougetonboulder.github.io/post/work3/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/work3/</guid>
+      <guid>https://bougetonboulder.github.io/post/work3/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Name of the work 1</title>
-      <link>https://example.org/post/work1/</link>
+      <link>https://bougetonboulder.github.io/post/work1/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/work1/</guid>
+      <guid>https://bougetonboulder.github.io/post/work1/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>This is a Standard Post</title>
-      <link>https://example.org/post/work2/</link>
+      <link>https://bougetonboulder.github.io/post/work2/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/post/work2/</guid>
+      <guid>https://bougetonboulder.github.io/post/work2/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.
 &lt;/p&gt;</description>
     </item>

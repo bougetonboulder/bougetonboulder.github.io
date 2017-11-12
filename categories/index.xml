@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bouge Ton Boulder</title>
-    <link>https://example.org/categories/</link>
+    <link>https://bougetonboulder.github.io/categories/</link>
     <description>Recent content in Categories on Bouge Ton Boulder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 bougetonboulder</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bougetonboulder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A</title>
-      <link>https://example.org/categories/a/</link>
+      <link>https://bougetonboulder.github.io/categories/a/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/a/</guid>
+      <guid>https://bougetonboulder.github.io/categories/a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>B</title>
-      <link>https://example.org/categories/b/</link>
+      <link>https://bougetonboulder.github.io/categories/b/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/b/</guid>
+      <guid>https://bougetonboulder.github.io/categories/b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://example.org/categories/c/</link>
+      <link>https://bougetonboulder.github.io/categories/c/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/c/</guid>
+      <guid>https://bougetonboulder.github.io/categories/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>D</title>
-      <link>https://example.org/categories/d/</link>
+      <link>https://bougetonboulder.github.io/categories/d/</link>
       <pubDate>Sat, 05 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/d/</guid>
+      <guid>https://bougetonboulder.github.io/categories/d/</guid>
       <description></description>
     </item>
     
